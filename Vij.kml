@@ -8,7 +8,7 @@
 </Schema>
 <Folder><name>Vijayawada_Wards</name>
   <Placemark>
-	<Style><LineStyle><color>9c9c9c</color></LineStyle><PolyStyle><color>9c9c9c</color><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>9c9c9c</color></LineStyle><PolyStyle><color>9c9c9c</color><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Vijayawada_Wards">
 		<SimpleData name="Shape_Leng">0.0503928395419</SimpleData>
 		<SimpleData name="Shape_Area">0.000103026452217</SimpleData>
